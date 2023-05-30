@@ -1,0 +1,5 @@
+applications:
+  - name: training
+    path:
+    buildpacks:
+      - sap_java_buildpack
